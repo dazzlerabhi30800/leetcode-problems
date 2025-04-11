@@ -1,0 +1,8 @@
+this is a text file.
+
+Hello My name is Abhishek Choudhary, a Frontend Developer with 3yrs of hands-on experience with React Library with State Management tools like - Redux, Zustand & Context API.
+Current I am seeking a full time opportunity, recently saw a job posting on linkedIn & applied for it, but my concern is if my CV will reach to you.
+I hope you'll this message & reply ASAP.
+
+Your's sincerely 
+Abhishek Choudhary
